@@ -1,0 +1,33 @@
+html, body{
+	height: 100%;
+}
+
+body{
+	padding-top: 5%;
+}
+#container{
+	text-align: center;
+}
+.formWidth{
+	width: 20%;
+	margin: 0 auto;
+}
+label{
+	text-align: left;
+}
+#goRegister{
+	width: 50%;
+	text-align: right;
+}
+.container {
+	max-width: none !important;
+	min-height: 100%;
+}
+
+.footer_1{
+	text-align: center;
+	border-top: 1px solid black;
+	padding-top: 8px;
+	margin-top: -3.5em;
+	height: 3.5em;
+}

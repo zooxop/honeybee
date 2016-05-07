@@ -1,0 +1,136 @@
+#wrapper1 {
+	width: 250px;
+	height: 90%;
+	border-right: 2px solid black;
+	position: fixed;
+	text-align: center;
+	left: 30px;
+}
+.likeModal, .followCursor{
+	cursor: pointer;
+}
+.profileImgTime{
+	border: 1px solid black;
+}
+.likeImg{
+	width: 20px;
+}
+.likeFont{
+	font-size: 15px;
+}
+.myDiv {
+	text-align: center;
+	margin-top: 20px;
+	position: absolute;
+}
+.honeyLike{
+	cursor: pointer;
+}
+.uploadId {
+	font-size: 18px;
+	cursor: pointer;
+}
+
+.img1 {
+	width: 75px;
+	height: 75px;
+}
+
+.edit {
+	text-align: right;
+}
+
+.myImg {
+	width: 200px;
+	height: 200px;
+}
+
+#padding60 {
+	padding-bottom: 75px;
+}
+
+.img2 {
+	width: 600px;
+	border:1px solid gray;
+}
+
+.time {
+	font-size: 13px;
+	text-align: right;
+}
+
+.like {
+	font-size: 13px;
+}
+
+.container1 {
+	max-width:none;
+	width: 630px !important;
+}
+/* .container{
+	width: 1400px;
+	max-width: none !important;
+} */
+
+.btnComment{
+	float: right;
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+}
+.btnDelete{
+	float: right;
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+	
+	margin-top: 10px;
+}
+
+@media (max-width: 900px) {
+  .container {
+    width: 750px;
+    margin-left: 600px !important;
+  }
+}
+
+
+
+.writerNick{
+	color: #0D3C96;
+}
+
+.divn{
+	width: 630px;
+    font-size:14px;
+    text-align:center;
+    font-weight: bold;
+    max-width:none;
+    margin:0 auto;
+}
+.btn-lg{
+	height: 30px;
+}
+.conte{
+	margin-top:20px;
+	margin-bottom:10px;
+	font-weight:bold;
+	font-size:20px;
+	border-bottom: 1px dotted gray;
+	width:500px;
+	font-family: nanumgothic;	
+}
+.textComment{
+	font-size: 17px;
+}
+.likeColor{
+	color:gray;
+}
+#p1{
+	font-size:14px;
+    text-align:center;
+    font-weight: bold;
+ }
+ .CommentTime{
+ float: right;
+ font-size: 12px;
+ color:gray;
+ }

@@ -1,0 +1,33 @@
+body{
+	margin: 100px 0px;
+}
+#container{
+	width: 1600px;
+ 	max-width: none !important;
+ 	margin: 0 auto;
+}
+#imgDiv{
+	margin-left: 25%;
+	float: left;
+}
+#frmDiv{
+	background-color: #7F6131;
+	width: 480px;
+	float: right;
+	margin-right: 300px;
+	border-radius: 20px;
+	color: white;
+}
+#submitBtn{
+	text-align: center;
+	margin-top: 20px;
+}
+.frmCenter{
+	width: 75%;
+	margin: 0 auto;
+	padding-top: 10px;
+}
+.form-control{
+	width: 70% !important;
+	display: inline;
+}
